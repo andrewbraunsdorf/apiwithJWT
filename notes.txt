@@ -1,0 +1,22 @@
+Node Authentication with JWT
+Add authenticification
+Log in with token and save it.  Then use it to create a log in
+
+Postman to make requests
+Npm init
+Install dependencies
+Express jsonwebtoken
+npm install express jsonwebtoken
+Npm install -g nodemon
+
+Call express and jsonwebtoken
+Initialize our app variable with express
+
+Create a api route for index
+Need req and res 
+Send a long a message 
+Then add res.json({
+});
+
+Add listen
+app.listen(8080, () => console.log('Server started on port 8080'));

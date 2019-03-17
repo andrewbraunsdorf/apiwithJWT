@@ -9,4 +9,12 @@ app.get('/api', (req, res) => {
 	});
 });
 
+app.post('/api/posts', (req, res) => {
+	res.json({
+		message: 'Post Created...'
+	});
+});
+
+
+
 app.listen(8080, () => console.log('Server started on port 8080'));
