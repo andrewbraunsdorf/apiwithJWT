@@ -1,0 +1,19 @@
+{
+  "name": "travestyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbraunsdorf/apiwithJWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewbraunsdorf/apiwithJWT/issues"
+  },
+  "homepage": "https://github.com/andrewbraunsdorf/apiwithJWT#readme"
+}
